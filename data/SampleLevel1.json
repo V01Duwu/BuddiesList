@@ -2,16 +2,16 @@
     "id": 14,
     "name": "Clubstep",
     "author": "RobTop",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "creators": [],
     "verifier": "WorldGame",
     "verification": "https://youtu.be/tlpd2-mSCw8",
-    "percentToQualify": 56,
+    "percentToQualify": 2196156,
     "password": "Not Copyable",
     "records": [
         {
             "user": "WorldGame",
             "link": "https://youtu.be/tlpd2-mSCw8",
-            "percent": 2,196,156,
+            "percent": 2196156,
             "hz": 360
         }
     ]
