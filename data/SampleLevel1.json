@@ -1,17 +1,17 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 14,
+    "name": "Clubstep",
+    "author": "RobTop",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "verifier": "WorldOfGame",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "WorldOfGame",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "percent": 2,196,156,
             "hz": 360
         }
     ]
